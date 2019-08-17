@@ -1,0 +1,15 @@
+.Output {   
+    width: 200px;
+    align-self: center;
+    margin-bottom: 10px;
+    height: 100%;
+    border: 2px solid skyblue;    
+    background-color: aliceblue;
+    overflow: hidden;
+}
+
+.Output p {
+    font-family: cursive;
+    color: black;
+    background-color: transparent;
+}
